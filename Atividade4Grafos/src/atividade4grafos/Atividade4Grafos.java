@@ -17,7 +17,7 @@ public class Atividade4Grafos {
 	public static void main(String[] args) throws FileNotFoundException {
 		System.out.println("ATIVIDADE 1: ");
 		
-		File doc = new File("C:\\Users\\Bruno\\Desktop\\Atividade4Grafos\\src\\atividade4grafos\\pequenoG.txt");
+		File doc = new File("C:\Users\Bruno\Desktop\Grafos---Atividade-4-main\Atividade4Grafos\src\atividade4grafos\\pequenoG.txt");
 		Scanner obj = new Scanner(doc);
 
 		alocar(grafos, obj);
